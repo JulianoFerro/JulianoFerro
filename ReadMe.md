@@ -9,9 +9,9 @@
 <br>
 
 ## Resumo
-    Sou Programador Fullstack que gosta de Backend e Mobile. 
-    Trabalho com .Net Core, mas flerto com Node.
-    Horas vagas dedico a estudos e ao filho de 4 patas 🐶. 
+Sou Programador Fullstack que gosta de Backend e Mobile. 
+Trabalho com .Net Core e flerto com Node e React Native.
+Horas vagas dedico a estudos e ao filho de 4 patas 🐶. 
 
 <br>
     
@@ -20,14 +20,14 @@
 ### Desenvolvedor de Software
 #### Setembro de 2021 - Atualmente
 #### Pelotas/RS
-       Desenvolvimento e manutenção de sistemas web, APIs, banco de dados e IIS. ASPNET MVC 4, C# e .Net, PostgreSQL e Oracle.
+Desenvolvimento e manutenção de sistemas web, APIs, banco de dados e IIS. ASPNET MVC 4, C# e .Net, PostgreSQL e Oracle.
 
 
 ### Code Solutions
 ### Analista e programador de sistemas
 #### Fevereiro de 2021 - setembro de 2021 (8 meses)
 #### Pelotas/RS
-    Desenvolvimento e manutenção de sistemas web, mobile e desktop, banco de dados e IIS. React, React Native, C#, SQLite e PostgreSQL.
+Desenvolvimento e manutenção de sistemas web, mobile e desktop, banco de dados e IIS. React, React Native, C#, SQLite e PostgreSQL.
 
 <br>
 
