@@ -9,8 +9,8 @@
 <br>
 
 ## Resumo
-Sou Programador Fullstack que gosta de Backend e Mobile. 
-Trabalho com .Net Core e flerto com Node e React Native.
+Sou Programador Fullstack que gosta de Backend e Mobile. Trabalho com .Net Core e flerto com Node e React Native.
+
 Horas vagas dedico aos estudos e ao filho de 4 patas 🐶. 
 
 <br>
