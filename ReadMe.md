@@ -20,7 +20,7 @@ Horas vagas dedico aos estudos e ao filho de 4 patas 🐶.
 ### Desenvolvedor de Software
 #### Setembro de 2021 - Atualmente
 #### Pelotas/RS
-Desenvolvimento e manutenção de sistemas web, APIs, banco de dados e IIS. ASPNET MVC 4, C# e .Net, PostgreSQL e Oracle.
+Desenvolvimento e manutenção de sistemas web, APIs, banco de dados e IIS. ASPNET MVC 4, C# e .Net, PostgreSQL.
 
 
 ### Code Solutions
